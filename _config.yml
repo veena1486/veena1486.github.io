@@ -141,15 +141,15 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/@veenamural"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://veenamuralidharan.wordpress.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://github.com/veena1486"
+    - label: "LinkedIN"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/veena-muralidharan-0765191b/"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
