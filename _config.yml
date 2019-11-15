@@ -148,7 +148,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/veena1486"
     - label: "LinkedIN"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/veena-muralidharan-0765191b/"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
