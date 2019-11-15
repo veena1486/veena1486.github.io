@@ -131,9 +131,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/veena1486"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Hackerrank"
+      icon: "fab fa-fw fa-hackerrank"
+      # url: "https://www.hackerrank.com/muralidharanvee1"
 
 # Site Footer
 footer:
@@ -150,9 +150,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/veena-muralidharan-0765191b/"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "Hackerrank"
+      icon: "fab fa-fw fa-hackerrank"
+      url: "https://www.hackerrank.com/muralidharanvee1"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
