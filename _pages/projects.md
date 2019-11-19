@@ -8,7 +8,7 @@ toc_sticky: true
 ---
 
 # Data Exploration & Visualization 
-## - **Call Pattern Analysis:** 
+## - **Call Pattern Analysis** 
 Using 911 Emergency Kaggle dataset to explore the call patterns for different emergency calls made to 911. Furthermore, using Bokeh library to create a visualization dashboard of the 911 calls made according to the emergency type.<br> 
 
  Code | Blog | 
