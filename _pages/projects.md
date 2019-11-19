@@ -1,7 +1,6 @@
 ---
-layout: archive
-permalink: /projects/
 title: ""
+permalink: /projects/
 toc: true
 toc_label: "Projects"
 toc_icon: "cog"
