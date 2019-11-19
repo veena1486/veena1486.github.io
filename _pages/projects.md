@@ -14,5 +14,5 @@ Using 911 Emergency Kaggle dataset to explore the call patterns for different em
 
  Code |permalink | 
  --- | --- | 
- [Notebook](https://github.com/veena1486/datascience-portfolio/tree/master/CrimeAnalysis)| /_posts/2019-11-15-911dataviz.md
+ [Notebook](https://github.com/veena1486/datascience-portfolio/tree/master/CrimeAnalysis)| /_posts/2019-11-15-911dataviz.md/
 
