@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Portfolio"
+title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Veena Muralidharan"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Veena Muralidharan"
   avatar           : "/images/my_photo.jpg"
-  bio              : "GIS Expert & Data Science Aspirant"
+  bio              : "GIS Expert aspiring to be a Data Scientist"
   location         : "Mumbai, Maharashtra, India"
   email            : 
   links:
