@@ -1,6 +1,8 @@
 ---
 title: "About"
 permalink: /about/
+header:
+  image: "/images/header_img.jpg"
 ---
 
 Hello there!!
