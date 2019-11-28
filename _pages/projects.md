@@ -1,6 +1,8 @@
 ---
 title: ""
 permalink: /projects/
+header:
+  image: "/images/header_img.jpg"
 toc: true
 toc_label: "Projects"
 toc_icon: "cog"
