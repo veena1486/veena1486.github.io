@@ -20,7 +20,7 @@ title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Veena Muralidharan"
-description              : "GIS Expert & Data Science Aspirant"
+description              : "GIS Expert, Content Writer & Aspiring Data Scientist"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Veena Muralidharan"
   avatar           : "/images/my_photo.jpg"
-  bio              : "GIS Expert aspiring to be a Data Scientist"
+  bio              : "GIS Expert, Content Writer & Aspiring Data Scientist"
   location         : "Mumbai, Maharashtra, India"
   email            : 
   links:
