@@ -19,8 +19,8 @@ Indoor Air Pollution has been silent killer over the years. We do not realise of
  
  
  
- # Blog Articles 
- ## - **A World of Spatial Quality** 
+# Blog Articles 
+## - **A World of Spatial Quality** 
 #### *Feb 21, 2019* 
 This article talks about the capabilities of using GIS technology to represent qualitative information such as Social Media Content, Public Sentiments etc. that can improve the way we visualize such information and gain quick insights from qualitative information. It also introduces the concept of **Natural Language Processing** which can be integrated with GIS to create valuable products and solutions for businesses.
 Article Link  
