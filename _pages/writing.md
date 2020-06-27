@@ -25,4 +25,11 @@ Indoor Air Pollution has been silent killer over the years. We do not realise of
 This article talks about the capabilities of using GIS technology to represent qualitative information such as Social Media Content, Public Sentiments etc. that can improve the way we visualize such information and gain quick insights from qualitative information. It also introduces the concept of **Natural Language Processing** which can be integrated with GIS to create valuable products and solutions for businesses.
 Article Link  
 |--- |  
- [LinkedIN Article](https://www.linkedin.com/pulse/world-spatial-quality-veena-muralidharan/)
+[LinkedIN Article](https://www.linkedin.com/pulse/world-spatial-quality-veena-muralidharan/)
+ 
+## - **"Hello AI!! I am GIS."**
+*Feb 25, 2019*
+As we progress rapidly into the era of "Digital Thinking", we observe a paradigm shift in technological approach. We find that the new technologies and solutions built nowadays, are more data driven which has consequently transformed the GIS industry. Now, it's no longer just about creating maps. The present game plan completely leans towards building intelligent maps that possess the capability to interact with users. This article talks about integrating AI & GIS to create a innovative solutions that can impact our society today.
+Article Link  
+|--- |  
+[LinkedIN Article](https://www.linkedin.com/pulse/hello-ai-i-am-gis-veena-muralidharan/)
