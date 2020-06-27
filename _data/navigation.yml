@@ -6,7 +6,7 @@ main:
     url: /projects/
   - title: "Resume"
     url: /pdf/Veena_CV.pdf
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Writing & Musings"
+    url: /writing/
   # - title: "Sitemap"
   #   url: /sitemap/
