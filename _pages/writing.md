@@ -31,5 +31,11 @@ Article Link | [LinkedIN Article](https://www.linkedin.com/pulse/world-spatial-q
 *Feb 25, 2019* <br>
 As we progress rapidly into the era of "Digital Thinking", we observe a paradigm shift in technological approach. We find that the new technologies and solutions built nowadays, are more data driven which has consequently transformed the GIS industry. Now, it's no longer just about creating maps. The present game plan completely leans towards building intelligent maps that possess the capability to interact with users. This article talks about integrating AI & GIS to create a innovative solutions that can impact our society today.<br>
 
-Article Link | [LinkedIN Article](https://www.linkedin.com/pulse/hello-ai-i-am-gis-veena-muralidharan/)|   
+Article Link | [LinkedIN Article](https://www.linkedin.com/pulse/hello-ai-i-am-gis-veena-muralidharan/)| 
+
+## - **Business Startup Scenario in India**
+*Feb 21, 2022* <br>
+The environment of business and enterprenueship is changing. With the launch of GOI's #startupindia program, budding enterpreneurs have access to an oppportunity platform to estabish and grow their business.<br>
+
+Article Link | [Article](_posts/2022-02-21-startup.md/)| 
 
