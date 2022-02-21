@@ -37,5 +37,5 @@ Article Link | [LinkedIN Article](https://www.linkedin.com/pulse/hello-ai-i-am-g
 *Feb 21, 2022* <br>
 The environment of business and enterprenueship is changing. With the launch of GOI's #startupindia program, budding enterpreneurs have access to an oppportunity platform to estabish and grow their business.<br>
 
-Article Link | [Article](https://veena1486.github.io/startup)| 
+Article Link | [Article](https://github.com/veena1486/veena1486.github.io/blob/9b1d04ac6b41184283a2af0b463a5c4272ccc5fd/_posts/2022-02-21-startup.md)| 
 
